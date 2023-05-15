@@ -40,7 +40,7 @@ function Document({ children }) {
 
         <meta name="description" content="AI-powered learning app." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://tutorai.vercel.app" />
+        <meta property="og:url" content="https://tutorai-pooja.vercel.app" />
         <meta
           property="og:title"
           content="Tutor AI — your personalised smart tutor. 🎓"
@@ -50,16 +50,19 @@ function Document({ children }) {
         <meta property="og:image:height" content="1280" />
         <meta property="og:image:type" content="image/png" />
         <meta property="og:image:alt" content="og header" />
-        <meta property="og:image" content="https://tutorai.vercel.app/og.png" />
+        <meta
+          property="og:image"
+          content="https://tutorai-pooja.vercel.app/og.png"
+        />
         <meta
           property="og:image:secure_url"
-          content="https://tutorai.vercel.app/og.png"
+          content="https://tutorai-pooja.vercel.app/og.png"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:image:alt" content="og header" />
         <meta
           name="twitter:image"
-          content="https://tutorai.vercel.app/og.png"
+          content="https://tutorai-pooja.vercel.app/og.png"
         />
 
         <Links />
